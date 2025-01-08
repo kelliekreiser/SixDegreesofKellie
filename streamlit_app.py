@@ -11,15 +11,15 @@ st.set_page_config(page_title="Multi-Modal Chatbot", layout="wide")
 
 # Load banner image
 try:
-    st.image("Santa_banner.png", caption="Created by Kellie Kreiser (2024)", use_column_width=True)
+    st.image("SixDegreesBanner.png", caption="Created by Kellie Kreiser (2025)", use_column_width=True)
 except Exception as e:
     logger.error(f"Error loading banner image: {e}")
     st.error("Error loading banner image.")
 
 # Title and description
-st.title("Explore the best dive bar in the North Pole")
-st.write("Open the door and come in!")
-st.caption("Lost? Type 'Help' for instructions and 'Areas' for navigation")
+st.title("Six Degrees of Kellie")
+st.write("Get to know Kellie by seeing how you are connected!")
+st.caption("Lost? Type 'Help' for instructions")
 
 # Initialize OpenAI client
 try:
