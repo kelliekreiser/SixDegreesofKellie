@@ -11,7 +11,7 @@ st.set_page_config(page_title="Multi-Modal Chatbot", layout="wide")
 
 # Load banner image
 try:
-    st.image("SixDegreesBanner.png", caption="Created by Kellie Kreiser (2025)", use_column_width=True)
+    st.image("SixDegreesBanner.png", caption="Created by Kellie Kreiser (2025)", use_container_width=True)
 except Exception as e:
     logger.error(f"Error loading banner image: {e}")
     st.error("Error loading banner image.")
