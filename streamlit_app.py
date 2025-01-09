@@ -18,8 +18,8 @@ except Exception as e:
 
 # Title and description
 st.title("Six Degrees of Kellie")
-st.write("Get to know Kellie by seeing how you are connected!")
-st.caption("Lost? Type 'Help' for instructions")
+st.write("Get to know Kellie by seeing how you are connected! This bot will show how something about you is connected to something about her in only six steps")
+st.caption("Start by telling me something about yourself. Type 'Help' for more instructions")
 
 # Initialize OpenAI client
 try:
@@ -53,7 +53,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # Chat input
-user_input = st.chat_input("What do you want to do?")
+user_input = st.chat_input("Tell me one thing about yourself")
 
 if user_input:
     # Add user message to session state
