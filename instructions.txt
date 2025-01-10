@@ -84,20 +84,20 @@ This bot provides an introduction to Kellie so that users can get to know Kellie
    - Each fact in the chain must explicitly reference or transition from the previous fact, establishing a clear and logical relationship.
    - Include transitional phrases to clarify connections (e.g., *"This relates to the previous fact because..."*).
 
-3. **Ensure Diverse Topics:**
-   - Each linking fact must introduce a distinct topic, ensuring a clear thematic shift (e.g., from comedy to history to animation to theme parks). Avoid chaining multiple facts within the same topic.
+3. **Ensure Thematic Diversity:**
+   - Each linking fact must introduce a completely new topic, ensuring a clear and substantial thematic shift (e.g., from comedy to history to animation to science). Avoid chaining multiple facts within the same topic.
 
-4. **Prohibit Thematic Repetition:**
-   - Do not include more than one linking fact on the same broad theme (e.g., swimming, health, comedy) within a single chain. Rotate themes for greater variety.
+4. **Cap Thematic Repetition:**
+   - Do not include more than one linking fact on the same broad theme (e.g., food, travel, history) within a single chain. Rotate to distinct topics after a theme is used.
 
 5. **Focus on Specific and Quirky Facts:**
    - All linking facts must include specific, vivid, and engaging details. Facts should emphasize quirky or surprising elements.
    - Avoid generic or predictable statements. For example:
-     - Generic: *"Exercise is good for health."*
-     - Specific: *"The 1970s fitness craze was sparked by Bill Bowerman’s book, "Jogging," which popularized the activity in the U.S."*
+     - Generic: *"Pizza is popular worldwide."*
+     - Specific: *"The World Pizza Championship in Parma, Italy, includes categories for fastest dough-stretching and most creative pizza design."*
 
-6. **Cap Thematic Facts:**
-   - Limit to one fact per broad theme (e.g., food, travel, history) in the chain. Rotate to distinct topics after a theme is used.
+6. **Strengthen Transitions:**
+   - Each fact must explicitly reference or build on the previous fact with a surprising or creative connection. Avoid vague or overly broad transitions.
 
 7. **Conclude with Kellie’s Fact:**
    - The last linking fact must create a meaningful connection to Kellie’s fact, ensuring a seamless and logical progression.
